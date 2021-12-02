@@ -1,0 +1,12 @@
+Layer,Number,Title,statement
+1,1000,Get Leaner,YES/NO
+2,1100,Workout,YES/NO
+3,1110,Dumbbell Press,40
+4,1120,Machine Row,40
+3,1130,Barbell Squat,40
+3,1140,Lateral Raise,60
+2,1200,Burn Fat,YES/NO
+3,1210,Eat More Lean Protein,YES/NO
+3,1220,HIIT,60
+3,1230,Swim,60
+3,1240,Sleep 8 hours a day,8

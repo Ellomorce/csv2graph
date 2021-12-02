@@ -1,0 +1,12 @@
+Layer,Number,Title,statement
+1,1000,Feel boring.,boolean
+2,1100,Play,boolean
+3,1110,Play Cards,4
+3,1120,Play Basketball,12
+3,1130,Play Video Game,boolean
+4,1131,Open Steam,Oh yes
+1,2000,Feel Hungry,boolean
+2,2100,Eat,boolean
+3,2110,McDonalds,3
+3,2120,Nightmarket,8
+3,2130,Dirt,wrong
